@@ -1,0 +1,10 @@
+# Desconsiderar arquivos de credenciais e senhas (Cibersegurança)
+.env
+.env.local
+
+# Desconsiderar pastas geradas automaticamente pelo Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
